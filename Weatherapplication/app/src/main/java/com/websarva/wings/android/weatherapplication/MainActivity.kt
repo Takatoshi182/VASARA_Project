@@ -9,6 +9,7 @@ import android.widget.ListView
 import android.widget.SimpleAdapter
 import com.websarva.wings.android.weatherapplication.PlaceConfirmDialogFragment
 
+
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -53,7 +54,7 @@ class MainActivity : AppCompatActivity() {
             //注文確認ダイアログフラグメントオブジェクトを生成
             val dialogFragment = PlaceConfirmDialogFragment()
             //ダイアログ表示
-           // dialogFragment.show(supportFragmentManager, "PlaceConfirmDialogFragment")
+            dialogFragment.show(supportFragmentManager, "PlaceConfirmDialogFragment")
         }
     }
 }
