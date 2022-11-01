@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">リスト選択サンプル2</string>
+    <string name="dialog_title">地域情報確認</string>
+    <string name="dialog_msg">この地域の天気を見ますか？</string>
+    <string name="dialog_btn_ok">はい</string>
+    <string name="dialog_btn_ng">いいえ</string>
+    <string name="dialog_btn_nu">もどる</string>
+    <string name="dialog_ok_toast">天気予報画面に移ります</string>
+    <string name="dialog_ng_toast">地域情報確認画面に移ります</string>
+    <string name="dialog_nu_toast">地域情報確認画面にもどります</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">天気予報</string>
+    <string name="tv_thx_title">天気予報</string>
+    <string name="tv_thx_desc">選んだ地域の天気予報です。\nお出かけの参考にどうぞ。</string>
+    <string name="tv_thx_back">地域選択に戻る</string>
+</resources>
